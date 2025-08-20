@@ -1,0 +1,26 @@
+{
+  "name": "gacl-platform",
+  "version": "1.0.0",
+  "description": "This repository contains the code for the Geospatial Engine of the GACL Platform.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gagankumarba/GACL-PLATFORM.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gagankumarba/GACL-PLATFORM/issues"
+  },
+  "homepage": "https://github.com/gagankumarba/GACL-PLATFORM#readme",
+  "dependencies": {
+    "@fastify/mongodb": "^9.0.2",
+    "fastify": "^5.5.0",
+    "mongodb": "^6.18.0",
+    "pg": "^8.16.3"
+  }
+}

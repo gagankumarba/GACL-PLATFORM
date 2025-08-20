@@ -1,0 +1,8 @@
+{
+  "vehicle_id": "V-7890",
+  "location": {
+    "type": "Point",
+    "coordinates": [-0.18, 51.15]
+  },
+  "timestamp": "2025-08-20T10:00:00Z"
+}
